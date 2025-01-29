@@ -7,7 +7,7 @@ export default async function Dashboard() {
     return (
         <>
             <div>
-                <h1>Dashboard</h1>
+                <h1>Dashboard route </h1>
                 <form
                     action={async () => {
                         "use server"
